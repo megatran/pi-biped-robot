@@ -1,48 +1,4 @@
 
-Conversation opened. 1 read message.
-
-Skip to content
-Using Colorado School of Mines Mail with screen readers
-Search
-
-
-
-Mail
-COMPOSE
-Labels
-Inbox (2)
-Starred
-Sent Mail
-Drafts (5)
-More 
-Hangouts
-
- 
- 
- 
-  More 
-1 of 5,044  
- 
-Print all In new window
-py 
-Inbox
-x 
-
-Arthur Mayer <arthurmayer@mymail.mines.edu>
-Attachments9:24 PM (4 minutes ago)
-
-to me 
-2 Attachments 
- 
-	
-Click here to Reply or Forward
-Using 0.63 GB
-Program Policies
-Powered by Google
-Last account activity: 0 minutes ago
-Open in 1 other location  Details
-
-
 import RPi.GPIO as GPIO
 import time
 import numpy
